@@ -9,6 +9,7 @@ function App() {
         <p>
          Ravi ruparel
          Chirag Raval
+         Ravi ruparel
         </p>
         <img src={logo} className="App-logo" alt="logo" />
         <a
